@@ -1,0 +1,21 @@
+textarea {
+    min-height: 400px;
+}
+
+#subject{
+    margin-right: 15rem;
+}
+
+#time{
+    
+    width: 100%;
+    color: black;
+    float:right;
+}
+
+.block{
+    font-weight: bold;
+}
+span{
+    font-weight: bold;
+}
